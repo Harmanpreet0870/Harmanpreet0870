@@ -14,9 +14,9 @@
 
 - 🔭 I'm currently working as a **Software Developer at an early-stage startup**, building Python backends and data pipelines in production
 - 🗄️ I **own the database layer** — schema design, management, and maintenance, working directly with the founding team
-- 🎓 Third-year **B.Tech in Cloud Computing & Machine Learning** at Babu Banarasi Das University
+- 🎓 Fourth-year **B.Tech in Cloud Computing & Machine Learning** at Babu Banarasi Das University
 - 🌱 Exploring **System Design | Cloud Deployment | Applied Machine Learning**
-- 💬 Ask me about **Python | React | SQL | Java | Pandas**
+- 💬 Ask me about **Python | React | SQL | Pandas**
 - ⚡ Fun fact: my first shipped feature taught me more than my first three semesters
 - 📫 Reach me at **harmanpreet0870@gmail.com**
 
