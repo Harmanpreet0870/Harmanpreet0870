@@ -13,7 +13,7 @@
 </p>
 
 ```console
-$ whoami
+
 
 Third-year B.Tech student (Cloud Computing & Machine Learning, BBD University)
 working full-time as a Software Developer at an early-stage startup.
@@ -27,7 +27,7 @@ Day to day, that means:
 
 Small team, wide scope. I touch development, testing, and documentation.
 
-$ cat stack.txt
+
 
 languages    python · java · sql · javascript
 frontend     react · html · css · socket.io
@@ -47,7 +47,7 @@ $ ls -la projects/
 | `misc/` | text analyzer, two calculators, browser games, to-do app, chatbot | React, JS, Tkinter |
 
 ```console
-$ git log --stat
+
 ```
 
 <p align="left">
