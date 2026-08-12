@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working as a **Software Developer at an early-stage startup**, building Python backends and data pipelines in production
+- 🔭 I had worked as a **Software Developer at an early-stage startup**, building Python backends and data pipelines in production
 - 🗄️ I **own the database layer** — schema design, management, and maintenance, working directly with the founding team
 - 🎓 Fourth-year **B.Tech in Cloud Computing & Machine Learning** at Babu Banarasi Das University
 - 🌱 Exploring **System Design | Cloud Deployment | Applied Machine Learning**
